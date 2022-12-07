@@ -1,0 +1,3 @@
+const displayContent = (req, res) => {
+
+}
