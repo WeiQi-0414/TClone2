@@ -1,0 +1,23 @@
+{
+  "name": "tclone2",
+  "version": "1.0.0",
+  "description": "this is my first npm package",
+  "main": "MyApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node MyApp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeiQi-0414/TClone2.git"
+  },
+  "author": "Wei Qi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeiQi-0414/TClone2/issues"
+  },
+  "homepage": "https://github.com/WeiQi-0414/TClone2#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
